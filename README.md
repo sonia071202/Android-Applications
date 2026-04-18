@@ -19,7 +19,7 @@ A collection of Android apps built with Kotlin, Java, and XML using OOP principl
 ### 🔢 Calculator App
 - Basic arithmetic operations with an intuitive UI
 - **Tech:** Kotlin, XML
-- 🔗 [View Repository](https://github.com/sonia071202/CalculatorApp)
+- 🔗 [View Repository](https://github.com/sonia071202/MyCalculator)
 
 ## Tech Stack
 Kotlin · Java · XML · Android Studio · OOP
