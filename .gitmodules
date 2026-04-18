@@ -1,0 +1,6 @@
+[submodule "KidsDrawingApp"]
+	path = KidsDrawingApp
+	url = https://github.com/sonia071202/KidsDrawingApp
+[submodule "QuizApp"]
+	path = QuizApp
+	url = https://github.com/sonia071202/QuizApp
