@@ -4,3 +4,6 @@
 [submodule "QuizApp"]
 	path = QuizApp
 	url = https://github.com/sonia071202/QuizApp
+[submodule "MyCalculator"]
+	path = MyCalculator
+	url = https://github.com/sonia071202/MyCalculator
